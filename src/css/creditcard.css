@@ -1,0 +1,14 @@
+element.style {
+    background-color: rgb(221, 187, 85);
+    color: white;
+}
+
+.creditcard {
+    margin: 10px;
+    padding: 20px;
+    width: 270px;
+    height: 150px;
+    border-radius: 10px;
+    display: inline-block;   
+}
+

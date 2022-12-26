@@ -1,0 +1,42 @@
+.drivercard {    
+    background-color: #425cbb;    
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 15px;
+    height: 150px;
+}
+
+.write {
+    display: inline-block; 
+    justify-content: center;
+    line-height: 5%;
+}
+
+.img {
+    display: flex;
+    width: 115px;
+    height: 110px;
+    border-radius: 110px;
+
+}
+
+.name {
+    background-color: #425cbb;
+    color:white;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.rating {
+    background-color: #425cbb;
+    color: white;
+    font-size: 37px;
+}
+
+.car {
+    background-color: #425cbb;
+    color: white;
+    font-size: 18px;
+}
